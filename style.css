@@ -1,0 +1,49 @@
+body {
+    color: #2f4f4f;
+    font-family:'Courier New', Courier, monospace;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border: 4px dashed deeppink;
+}
+
+h1 {
+    background-color: #ffb6c1;
+    padding: 5px;
+}
+
+h2 {
+    background-color: #add8e6;
+    padding: 5px;
+    color: darkviolet;
+}
+
+h3 {
+    background-color: bisque;
+    padding: 5px;
+    color: darkorange;
+}
+
+a {
+    color: #8b008b;
+}
+
+ol {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslateblue;
+    font-size: 18px;
+}
+
+#recipe-list {
+    border-left: 3px solid #b8860b;
+    list-style-type: none;
+}
+
+#ingredients {
+    list-style-type: circle;
+    color: mediumvioletred;
+    font-weight: 800;
+    font-size: 18px;
+}
